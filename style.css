@@ -1,0 +1,81 @@
+ body{
+    background-color: black;
+ }
+ .container{
+    margin: 0 auto;
+    width: 980px;
+ }
+ .container-fluid{
+    color: #000;
+    font-size: 12px;
+ }
+ .icon-link{
+    margin-right: 10px ;
+ }
+ .portfolio-1{
+    border: 1px solid white;
+    padding: 10px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+ }
+ .portfolio-2{
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+ .left-port{
+   width: 500px;
+ }
+ .right-port{
+   width: 450px;
+ }
+
+ .portfoli-1{
+   gap: 100px;
+ }
+ .carousel-item img{
+   width: 450px;
+ }
+ .port-btn{
+   border: none;
+   width: 60px;
+   height: 30px;
+   margin-right: 10px;
+   background-color:#E8EBED;
+   border-radius: 5px;
+ } 
+ .project-img{
+   width: 250px;height:200px;
+ }
+ .expert-btn{
+  padding: 5px;
+  border: none;
+  background-color:#E8EBED;
+  border-radius: 4px;
+  margin-right: 5px;
+ }
+ .expert-div{
+  padding-bottom: 80px;
+  width: 400px;
+ }
+ .expert-h3{
+  padding: 30px 0px 10px 0px;
+ }
+ .qualification{
+  width: 500px;
+ }
+ .contact-me{
+    width: 450px;
+    height: 400px;
+    margin: 0 auto;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+ }
+ .submit-contact{
+  width: 150px;
+
+ }
